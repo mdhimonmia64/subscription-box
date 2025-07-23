@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "name": "Coffee Lover's Box",
+    "thumbnail": "https://example.com/images/coffee-lovers-box-thumbnail.jpg",
+    "banner": "https://i.postimg.cc/yxwQSVbQ/images-1.jpg",
+    "frequency": "Monthly",
+    "price": 49.99,
+    "description": "Enjoy a handpicked selection of premium coffees from around the world, delivered fresh every month to fuel your passion.",
+    "tech_category": "Coffee",
+    "features": [
+      "Gourmet Coffee Beans",
+      "Single-origin & Blends",
+      "Freshly Roasted Every Month"
+    ],
+    "subscription_benefits": [
+      "Free Shipping on All Orders",
+      "Exclusive Coffee Brewing Guides",
+      "First Access to New Roasts"
+    ],
+    "ratings": 4.9,
+    "number_of_reviews": 427
+  },
+  {
+    "id": 2,
+    "name": "Global Beans Box",
+    "thumbnail": "https://example.com/images/global-beans-thumbnail.jpg",
+    "banner": "https://i.postimg.cc/43NDG3kV/images-2.jpg",
+    "frequency": "Monthly",
+    "price": 59.99,
+    "description": "Discover exotic coffee beans sourced from different continents each month with tasting notes and brewing tips.",
+    "tech_category": "Coffee",
+    "features": [
+      "International Coffee Varieties",
+      "Tasting Notes Included",
+      "Sustainably Sourced"
+    ],
+    "subscription_benefits": [
+      "Global Coffee Tour at Home",
+      "Free Monthly Coffee Quiz",
+      "VIP Roaster Interviews"
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 389
+  },
+  {
+    "id": 3,
+    "name": "Espresso Enthusiast Box",
+    "thumbnail": "https://example.com/images/espresso-enthusiast-thumbnail.jpg",
+    "banner": "https://i.postimg.cc/FRYwfnKK/coffee-beans-and-a-cup-of-black-coffee-on-a-wooden-table-illustration-ai-generative-free-photo.jpg",
+    "frequency": "Monthly",
+    "price": 54.99,
+    "description": "Specially curated for espresso lovers, this box includes dark roasts, grind options, and brewing guides.",
+    "tech_category": "Coffee",
+    "features": [
+      "Espresso Roast Beans",
+      "Perfect for Espresso Machines",
+      "Grinding Customization Available"
+    ],
+    "subscription_benefits": [
+      "Espresso Brewing Tips",
+      "10% Off Espresso Gear",
+      "Barista-Crafted Recipes"
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 314
+  },
+  {
+    "id": 4,
+    "name": "Organic Coffee Box",
+    "thumbnail": "https://example.com/images/organic-coffee-thumbnail.jpg",
+    "banner": "https://i.postimg.cc/zvWM7bKZ/hot-black-coffee-cafe-natural-background-cup-beans-surrounded-358645163.webp",
+    "frequency": "Biweekly",
+    "price": 44.99,
+    "description": "Certified organic and pesticide-free coffee beans sourced from ethical farms.",
+    "tech_category": "Coffee",
+    "features": [
+      "Certified Organic",
+      "No Chemicals or Additives",
+      "Fair Trade Certified"
+    ],
+    "subscription_benefits": [
+      "Health-Conscious Coffee Guide",
+      "Support for Local Farmers",
+      "Eco-friendly Packaging"
+    ],
+    "ratings": 4.8,
+    "number_of_reviews": 295
+  },
+  {
+    "id": 5,
+    "name": "Cold Brew Kit Box",
+    "thumbnail": "https://example.com/images/cold-brew-thumbnail.jpg",
+    "banner": "https://i.postimg.cc/25dScGRT/pngtree-cup-of-coffee-with-steam-steam-picture-image-3171724.png",
+    "frequency": "Monthly",
+    "price": 39.99,
+    "description": "Everything you need for the perfect cold brew: coarse-ground beans, filters, and instructions.",
+    "tech_category": "Coffee",
+    "features": [
+      "Cold Brew Optimized Beans",
+      "Brewing Kit Included",
+      "Low Acidity Coffee"
+    ],
+    "subscription_benefits": [
+      "DIY Cold Brew Recipes",
+      "Reusable Filter Included",
+      "Members-Only Cold Brew Tips"
+    ],
+    "ratings": 4.5,
+    "number_of_reviews": 198
+  },
+  {
+    "id": 6,
+    "name": "Decaf Delight Box",
+    "thumbnail": "https://example.com/images/decaf-box-thumbnail.jpg",
+    "banner": "https://i.postimg.cc/tJJRgH1m/istockphoto-1547710189-612x612.jpg",
+    "frequency": "Monthly",
+    "price": 42.99,
+    "description": "Rich and flavorful decaf options that let you enjoy coffee any time of day without the buzz.",
+    "tech_category": "Coffee",
+    "features": [
+      "High-Quality Decaf Beans",
+      "Swiss Water Processed",
+      "Smooth Flavor Profile"
+    ],
+    "subscription_benefits": [
+      "Relaxing Coffee Ritual Guide",
+      "Free Decaf Brewing Chart",
+      "Community Coffee Chats"
+    ],
+    "ratings": 4.4,
+    "number_of_reviews": 122
+  },
+  {
+    "id": 7,
+    "name": "Barista's Choice Box",
+    "thumbnail": "https://example.com/images/baristas-choice-thumbnail.jpg",
+    "banner": "https://i.postimg.cc/5ttfgVg9/HD-wallpaper-cup-of-coffee-black-coffee-latte.jpg",
+    "frequency": "Monthly",
+    "price": 64.99,
+    "description": "Each month, top baristas select premium beans and provide brewing tips directly from the experts.",
+    "tech_category": "Coffee",
+    "features": [
+      "Barista-Selected Beans",
+      "Exclusive Brewing Notes",
+      "Limited Edition Roasts"
+    ],
+    "subscription_benefits": [
+      "Live Barista Q&A",
+      "Barista Picks Newsletter",
+      "Behind-the-Scenes Roasting Access"
+    ],
+    "ratings": 4.9,
+    "number_of_reviews": 487
+  },
+  {
+    "id": 8,
+    "name": "Latte Art Box",
+    "thumbnail": "https://example.com/images/latte-art-box-thumbnail.jpg",
+    "banner": "https://i.postimg.cc/bwkyrgJ8/istockphoto-1276830740-612x612.jpg",
+    "frequency": "Monthly",
+    "price": 58.99,
+    "description": "Practice and perfect your latte art skills with premium beans, milk frothing tools, and video lessons.",
+    "tech_category": "Coffee",
+    "features": [
+      "Smooth Blends for Milk",
+      "Milk Frothing Tips",
+      "Access to Latte Art Tutorials"
+    ],
+    "subscription_benefits": [
+      "Barista Latte Art Course",
+      "Discount on Frothing Gear",
+      "Share Your Art Challenge"
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 243
+  },
+  {
+    "id": 9,
+    "name": "Dark Roast Discovery Box",
+    "thumbnail": "https://example.com/images/dark-roast-thumbnail.jpg",
+    "banner": "https://i.postimg.cc/HnFms81V/images.jpg",
+    "frequency": "Monthly",
+    "price": 52.99,
+    "description": "Bold, rich, and intense — a selection of the finest dark roasts for strong coffee lovers.",
+    "tech_category": "Coffee",
+    "features": [
+      "Dark Roast Only",
+      "Rich Aroma & Taste",
+      "Perfect for French Press"
+    ],
+    "subscription_benefits": [
+      "Free Mug on 3rd Box",
+      "Dark Roast Pairing Guide",
+      "Limited Batch Beans"
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 310
+  },
+  {
+    "id": 10,
+    "name": "Beginner Brewer's Box",
+    "thumbnail": "https://example.com/images/beginner-brew-thumbnail.jpg",
+    "banner": "https://i.postimg.cc/W1GVT4W1/images-4.jpg",
+    "frequency": "Monthly",
+    "price": 34.99,
+    "description": "New to coffee? Start your journey with simple, smooth blends and easy brewing instructions.",
+    "tech_category": "Coffee",
+    "features": [
+      "Beginner-Friendly Beans",
+      "Step-by-Step Brewing Guide",
+      "Low Bitterness Blends"
+    ],
+    "subscription_benefits": [
+      "Brewing Starter Kit Guide",
+      "Simple Coffee Hacks",
+      "Monthly Brewing Challenge"
+    ],
+    "ratings": 4.3,
+    "number_of_reviews": 176
+  },
+   {
+    "id": 11,
+    "name": "Adventure Brew Box",
+    "thumbnail": "https://example.com/images/adventure-brew-thumbnail.jpg",
+    "banner": "https://i.postimg.cc/Bn06xkRt/a-cup-of-coffee-on-a-wooden-table-ai-generated-photo.jpg",
+    "frequency": "Monthly",
+    "price": 46.99,
+    "description": "For thrill-seekers and travelers — this box brings unique, bold coffees from remote and adventurous regions of the world.",
+    "tech_category": "Coffee",
+    "features": [
+      "Rare Regional Beans",
+      "Adventure Tasting Map",
+      "New Origin Every Month"
+    ],
+    "subscription_benefits": [
+      "Behind-the-Bean Story Cards",
+      "Adventure Travel Mug (after 3 boxes)",
+      "Free Virtual Coffee Tours"
+    ],
+    "ratings": 4.8,
+    "number_of_reviews": 274
+  },
+  {
+    "id": 12,
+    "name": "Student Survival Coffee Box",
+    "thumbnail": "https://example.com/images/student-coffee-thumbnail.jpg",
+    "banner": "https://i.postimg.cc/CKvxp15f/imag.jpg",
+    "frequency": "Monthly",
+    "price": 29.99,
+    "description": "Designed for students and night owls — high-caffeine, budget-friendly blends to keep you powered through long study sessions.",
+    "tech_category": "Coffee",
+    "features": [
+      "Extra Caffeinated Blends",
+      "Budget-Friendly Packs",
+      "Microwave Brew Options"
+    ],
+    "subscription_benefits": [
+      "Student Discount Available",
+      "Free Coffee Shot Samples",
+      "Motivational Coffee Stickers"
+    ],
+    "ratings": 4.2,
+    "number_of_reviews": 195
+  }
+]
