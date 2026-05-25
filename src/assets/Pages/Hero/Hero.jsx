@@ -133,7 +133,7 @@ const Hero = () => {
               <BsCupHot className="text-white" size={22}/>
               <p>Get Your Monthly Coffee Crates Now</p>
               </div>
-              <button className="btn mt-6 md:mt-14 px-9">START</button>
+              <button className="btn mt-6 md:mt-14 px-9 hover:bg-yellow-400 hover:text-white">START</button>
           </div>
           <div className="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
             <a href="#slide3" className="btn btn-circle">
