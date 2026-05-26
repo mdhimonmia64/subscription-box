@@ -13,6 +13,7 @@ import Loading from "../assets/Pages/Loading/Loading";
 import CoffeeSubscriptions from "../assets/Pages/CoffeeSubscriptions/CoffeeSubscriptions";
 import ContactUs from "../assets/Pages/Contact/ContactUs";
 import CoffeeJob from "../assets/Pages/Job/CoffeeJob";
+import ContactMe from "../assets/Pages/ContactMe/ContactMe";
 
 export const router = createBrowserRouter([
     {
@@ -28,6 +29,10 @@ export const router = createBrowserRouter([
             {
                 path:"/banner",
                 Component:Banner
+            },
+            {
+                path:"/contactMe",
+                Component:ContactMe
             },
             {
                 path:"/about",

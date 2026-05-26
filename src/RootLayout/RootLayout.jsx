@@ -51,12 +51,6 @@ const RootLayout = () => {
     const unsubscribe = onAuthStateChanged(auth,(currentUser)=>{
       setUser(currentUser)
       setLoading(false)
-      // console.log(currentUser)
-      // if(currentUser){
-      //   const uid = currentUser.uid;
-      // }else{
-      //   //...
-      // }
     });
     return ()=>{
       unsubscribe();

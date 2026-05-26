@@ -2,8 +2,8 @@ import React from "react";
 
 const AboutCoffee = () => {
   return (
-    <div className="w-8/12 mx-auto lg:flex justify-between px-6 my-20 ">
-      <img className="w-[600px] " src="https://i.ibb.co/23DN1Tjc/details.jpg" alt="" />
+    <div className="w-8/12 mx-auto lg:flex justify-between md:px-6 my-20 ">
+      <img className="w-[300px] md:w-[500px] rounded-3xl" src="/public/about-coffee.jpg" alt="" />
       <div>
         <h1 className="text-4xl py-14">All About <span className="text-amber-300">Coffee Crate</span></h1>
         <p>

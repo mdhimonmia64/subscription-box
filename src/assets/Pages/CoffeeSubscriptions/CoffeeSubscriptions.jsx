@@ -74,7 +74,7 @@ const CoffeeSubscriptions = () => {
             <li>Brewing tips</li>
           </p>
           <h2 className="font-semibold text-2xl pb-3">One Day Shipping</h2>
-          <p className="pb-10">
+          <div className="pb-10">
             <h1>✅ Feature Highlights:</h1>
             <li>
               📦 Fast delivery on{" "}
@@ -88,16 +88,16 @@ const CoffeeSubscriptions = () => {
               🕒 Orders placed before <span className="font-bold">2 PM</span>{" "}
               are shipped <span className="font-bold">same-day</span>
             </li>
-          </p>
+          </div>
           <h2 className="font-semibold text-2xl pb-3">All For 12 Dollars</h2>
-          <p className="pb-10">
+          <div className="pb-10">
             <h1>🧾 What's Included for Just $12:</h1>
             <li>☕ 4 Global Coffee Samples (from 4 continents)</li>
             <li>🎁 6 Coffee Accessories</li>
             <li>🚚 1-Day Shipping (available in select regions)</li>
             <li>📝 Flavor Cards & Brewing Tips</li>
             <li>🌱 Eco-Friendly, Gift-Ready Packaging</li>
-          </p>
+          </div>
         </div>
       </div>
     </div>

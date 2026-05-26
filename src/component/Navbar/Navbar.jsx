@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { Link, NavLink, useNavigate } from "react-router";
+import { Link, Links, NavLink, useNavigate } from "react-router";
 import { AuthContext } from "../../RootLayout/RootLayout";
 import logo from "../../../New folder/ami.png"
 import { Tooltip } from "react-tooltip";
@@ -34,10 +34,10 @@ const Navbar = () => {
     </>
   );
   return (
-    <div className="navbar  bg-base-100 shadow-sm">
+    <div className="navbar bg-base-100 shadow-sm sticky top-0 z-30">
       <div className="navbar-start ">
         <div className="dropdown ">
-          <div tabIndex={0} role="button" className="btn p-0 btn-ghost lg:hidden">
+          <div tabIndex={0} role="button" className="btn p-0 btn-ghost lg:hidden ">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               className="h-5 w-5 p-0"
@@ -61,9 +61,8 @@ const Navbar = () => {
             {link}
           </ul>
         </div>
-
         <div>
-        <a className="btn btn-ghost text-[12px] md:text-xl">Subscription Box </a>
+        <a href="/" className="btn btn-ghost text-[10px] md:text-xl">Subscription Box </a>
         </div>
         
       </div>
@@ -82,7 +81,7 @@ const Navbar = () => {
           Sign Up
         </button>
         {user ? (
-          <button className="btn btn-primary " onClick={handleLogout}>
+          <button className="btn btn-primary" onClick={handleLogout}>
             Sign Out
           </button>
         ) : (
