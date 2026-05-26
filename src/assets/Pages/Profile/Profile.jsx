@@ -40,8 +40,9 @@ const Profile = () => {
             </a>
 
             <a
-              href="/public/MERN Stack Developer.pdf"
+              href="https://i.ibb.co.com/ZzxKQx0x/MERN-Stack-Developer.png"
               download
+              target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 border border-cyan-400 rounded-full hover:bg-cyan-500 hover:text-black transition font-semibold"
             >

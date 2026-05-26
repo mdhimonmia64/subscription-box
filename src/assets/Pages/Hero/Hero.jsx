@@ -18,7 +18,7 @@ const Hero = () => {
         <div id="slide1" className="carousel-item relative w-full">
           <img
             data-aos="flip-right"
-            src="/public/Banner-4.jpg"
+            src="https://i.ibb.co.com/F4vKTk3W/Banner-4.jpg"
             className="w-full relative h-[400px] md:h-[800px] object-cover"
           />
           <div className="absolute inset-0 bg-black/40"></div>
@@ -59,7 +59,7 @@ const Hero = () => {
         
         <div id="slide2" className="carousel-item relative w-full">
           <img
-            src="/public/Banner-3.jpg"
+            src="https://i.ibb.co.com/dJrzPtB3/Banner-3.jpg"
             className="w-full h-[400px] md:h-[800px] object-cover"
           />
           <div className="absolute inset-0 bg-black/40"></div>
@@ -99,7 +99,7 @@ const Hero = () => {
         </div>
         <div id="slide3" className="carousel-item relative w-full">
           <img
-            src="/public/Banner-2.jpg"
+            src="https://i.ibb.co.com/5WwX6wpQ/Banner-2.jpg"
             className="w-full h-[400px] md:h-[800px] object-cover"
           />
           <div className="absolute inset-0 bg-black/40"></div>
@@ -139,7 +139,7 @@ const Hero = () => {
         </div>
         <div id="slide4" className="carousel-item relative w-full">
           <img
-            src="/public/Banner-1.jpg"
+            src="https://i.ibb.co.com/4Rsqjbpj/Banner-1.webp"
             className="w-full h-[400px] md:h-[800px] object-cover"
           />
           <div className="absolute inset-0 bg-black/40"></div>
