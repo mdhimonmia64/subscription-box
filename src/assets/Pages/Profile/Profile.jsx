@@ -7,7 +7,7 @@ const Profile = () => {
         <div className="flex justify-center">
           <div className="relative group">
             <img
-              src="/public/mdhimonmia.png"
+              src="https://i.ibb.co.com/RT48rqhd/mdhimonmia.png"
               alt="Profile"
               className="w-[300px] h-[300px] md:w-[400px] md:h-[400px] object-cover rounded-3xl border-4 border-cyan-400 shadow-2xl transition duration-500 group-hover:scale-105"
             />
